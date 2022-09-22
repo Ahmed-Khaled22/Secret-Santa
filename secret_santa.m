@@ -1,9 +1,5 @@
 
 
-% ________________________________note_____________________________________
-% the huge bulk of text at the start of each section is me trying to
-% explain as best as i can the concept in this section. you can totaly skip 
-% reading it. enjoy ;)
 
 
 %% enter the number of players and check if the entered number is valid
